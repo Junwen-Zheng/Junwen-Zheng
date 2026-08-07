@@ -1,64 +1,60 @@
+<div align="center">
+
 # Hi, I'm Junwen 👋
 
-Software engineer focused on **distributed systems, backend infrastructure, machine learning systems, and performance-sensitive engineering**.
+### Software Engineer
 
-## 🚀 Selected Projects
+**Distributed Systems · Backend Infrastructure · Machine Learning Systems · Performance Engineering**
 
-### 📈 Medium-Frequency Alpha Research
-[![Repo](https://img.shields.io/badge/GitHub-medium__frequency__alpha__research-181717?logo=github)](https://github.com/Junwen-Zheng/medium_frequency_alpha_research)
+<img src="https://komarev.com/ghpvc/?username=Junwen-Zheng&label=Profile%20Views&style=flat-square" alt="Profile views" />
 
-Reproducible quantitative research pipeline with real market data, walk-forward validation, leakage controls, transaction-cost analysis, exposure diagnostics, and robustness testing.
-
----
-
-### 🧠 Deep Temporal Alpha Research
-[![Repo](https://img.shields.io/badge/GitHub-deep__temporal__alpha__research-181717?logo=github)](https://github.com/Junwen-Zheng/deep_temporal_alpha_research)
-
-Deep-learning research framework comparing classical ML, MLP, TCN, and Transformer approaches under reproducible temporal evaluation.
+</div>
 
 ---
 
-### ⚙️ Tokyo Equity Execution Lab
-[![Repo](https://img.shields.io/badge/GitHub-tokyo__equity__execution__lab-181717?logo=github)](https://github.com/Junwen-Zheng/tokyo_equity_execution_lab)
+## 👨‍💻 About Me
 
-Java execution-systems lab covering order lifecycle management, execution algorithms, routing, transaction-cost analysis, and JMH benchmarking.
+Software engineer focused on building reliable, scalable, and performance-sensitive systems.
 
----
+- 🔧 Distributed systems and backend engineering
+- 🤖 Machine learning infrastructure and applied AI
+- 📊 Quantitative research engineering
+- ⚡ Low-latency and high-performance systems
+- ☁️ Cloud infrastructure and production reliability
 
-### ⚡ Low-Latency Order Gateway
-[![Repo](https://img.shields.io/badge/GitHub-low__latency__order__gateway-181717?logo=github)](https://github.com/Junwen-Zheng/low_latency_order_gateway)
+## 🛠️ Tech Stack
 
-C++20 order-gateway simulator focused on deterministic execution, pre-trade risk, lifecycle correctness, and reproducible performance benchmarking.
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,java,cpp,go,linux,docker,kubernetes,gcp,git,github,pytorch&perline=11" alt="Tech stack" />
 
-### 📊 Market Regime Representation Learning
-[![Repo](https://img.shields.io/badge/GitHub-market__regime__representation__learning-181717?logo=github)](https://github.com/Junwen-Zheng/market_regime_representation_learning)
-
-Research framework for market-state representation, regime modelling, walk-forward evaluation, and statistical validation.
-
-## 🛠 Tech
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+</div>
 
 ## 🔬 Current Interests
 
-- Distributed systems
-- Backend and cloud infrastructure
-- Production ML / ML platforms
-- Quantitative research engineering
+- Distributed and backend systems
+- Production ML and ML platforms
+- Applied AI systems
+- Quantitative research infrastructure
 - Low-latency systems
-- Applied AI
+- Performance engineering
 
-## 📊 GitHub
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Junwen-Zheng&show_icons=true&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Junwen-Zheng&layout=compact&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Junwen-Zheng&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+
+<br />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junwen-Zheng&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Correctness · Reproducibility · Reliability · Measurable Performance**
+
+</div>
