@@ -38,14 +38,6 @@ Software engineer focused on building reliable, scalable, and performance-sensit
 - Low-latency systems
 - Performance engineering
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Junwen-Zheng/Junwen-Zheng/main/profile/stats.png?v=20260809-2" width="304" alt="GitHub Stats">
-  <br><br>
-  <img src="https://raw.githubusercontent.com/Junwen-Zheng/Junwen-Zheng/main/profile/top-langs.png?v=20260809-2" width="300" alt="Top Languages">
-</p>
-
 ---
 
 <div align="center">
