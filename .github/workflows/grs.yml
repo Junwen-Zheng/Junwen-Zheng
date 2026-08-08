@@ -31,10 +31,21 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Convert SVG cards to PNG
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y librsvg2-bin
+          rsvg-convert profile/stats.svg \
+            --format png \
+            --output profile/stats.png
+          rsvg-convert profile/top-langs.svg \
+            --format png \
+            --output profile/top-langs.png
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
+          git add profile/
           git commit -m "Update README cards" || exit 0
           git push
