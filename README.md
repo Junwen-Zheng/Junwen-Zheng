@@ -40,9 +40,9 @@ Software engineer focused on building reliable, scalable, and performance-sensit
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](./profile/stats.svg)
+![GitHub Stats](https://raw.githubusercontent.com/Junwen-Zheng/Junwen-Zheng/main/profile/stats.svg)
 
-![Top Languages](./profile/top-langs.svg)
+![Top Languages](https://raw.githubusercontent.com/Junwen-Zheng/Junwen-Zheng/main/profile/top-langs.svg)
 
 ---
 
