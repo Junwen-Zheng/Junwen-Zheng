@@ -40,15 +40,9 @@ Software engineer focused on building reliable, scalable, and performance-sensit
 
 ## 📊 GitHub Activity
 
-<div align="center">
+![GitHub Stats](./profile/stats.svg)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Junwen-Zheng&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
-
-<br />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junwen-Zheng&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-
-</div>
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
