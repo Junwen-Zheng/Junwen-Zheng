@@ -1,13 +1,8 @@
-<div align="center">
-
 # Hi, I'm Junwen 👋
 
 ### Software Engineer
 
 **Distributed Systems · Backend Infrastructure · Machine Learning Systems · Performance Engineering**
-
-
-</div>
 
 ---
 
@@ -23,11 +18,9 @@ Software engineer focused on building reliable, scalable, and performance-sensit
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,go,linux,docker,kubernetes,gcp,git,github,pytorch&perline=11" alt="Tech stack" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,go,linux,docker,kubernetes,gcp,git,github,pytorch&perline=11" alt="Tech Stack" />
+</p>
 
 ## 🔬 Current Interests
 
@@ -40,8 +33,4 @@ Software engineer focused on building reliable, scalable, and performance-sensit
 
 ---
 
-<div align="center">
-
 **Correctness · Reproducibility · Reliability · Measurable Performance**
-
-</div>
