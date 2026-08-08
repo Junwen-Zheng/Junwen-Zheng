@@ -6,7 +6,6 @@
 
 **Distributed Systems · Backend Infrastructure · Machine Learning Systems · Performance Engineering**
 
-<img src="https://komarev.com/ghpvc/?username=Junwen-Zheng&label=Profile%20Views&style=flat-square" alt="Profile views" />
 
 </div>
 
